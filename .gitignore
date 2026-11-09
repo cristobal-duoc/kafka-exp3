@@ -1,0 +1,10 @@
+# Lo que genera Maven al compilar
+target/
+
+# Configuración de los editores
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
